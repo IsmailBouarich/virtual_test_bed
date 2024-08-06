@@ -27,3 +27,5 @@
 [HTTR multiphysics core model](httr/index.md)
 
 [Pronghorn Generic Pebble Bed HTGR Tutorial](generic-pbr-tutorial/index.md)
+
+[HTTF Pronghorn model with subscale assemblies](httf/httf_pronghorn.md)
